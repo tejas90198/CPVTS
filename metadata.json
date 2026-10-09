@@ -1,0 +1,6 @@
+{
+  "name": "CPVTS",
+  "description": "Campus Parking & Vehicle Tracking System (CPVTS) Android client for real-time lot occupancy, digital permits, gate entry/exit tracking, and parking enforcement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

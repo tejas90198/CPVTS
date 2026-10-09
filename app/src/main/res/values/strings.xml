@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">CPVTS</string>
+    <string name="app_full_name">Campus Parking &amp; Vehicle Tracking System</string>
+    <string name="tagline">Smart Campus Mobility &amp; Parking Enforcement</string>
+    
+    <!-- Navigation -->
+    <string name="nav_lots">Parking Lots</string>
+    <string name="nav_vehicles">My Vehicles</string>
+    <string name="nav_permits">Permits</string>
+    <string name="nav_tracking">Gate Tracking</string>
+    <string name="nav_enforcement">Enforcement</string>
+    <string name="nav_dashboard">Overview</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Roles -->
+    <string name="role_driver">Student / Staff</string>
+    <string name="role_officer">Campus Officer</string>
+    <string name="role_admin">System Admin</string>
+
+    <!-- Common Actions -->
+    <string name="action_refresh">Refresh</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_search">Search</string>
+    <string name="action_filter">Filter</string>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_confirm">Confirm</string>
+    <string name="action_apply">Apply</string>
+    <string name="action_close">Close</string>
+
+    <!-- Statuses -->
+    <string name="status_available">Available</string>
+    <string name="status_limited">Limited</string>
+    <string name="status_full">Full</string>
+    <string name="status_active">Active</string>
+    <string name="status_expired">Expired</string>
+    <string name="status_pending">Pending Approval</string>
+    <string name="status_rejected">Rejected</string>
+
+    <!-- Mode Banner -->
+    <string name="demo_mode_badge">DEMO MODE (PREVIEW DATA)</string>
+    <string name="live_api_badge">LIVE BACKEND API</string>
+</resources>
